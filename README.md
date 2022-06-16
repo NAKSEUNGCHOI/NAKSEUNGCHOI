@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NAKSEUNGCHOI. I am a grad student at the UW.
-- 👀 I’m interested in power electronics and embedded systems.
+- 👀 I’m interested in embedded systems and power electronics.
 - 🌱 I’m currently digging into power management for embedded systems.
 - 📫 You can reach out to me via choi0424@uw.edu
 
