@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NAKSEUNGCHOI. I am a grad student at the UW.
 - 👀 I’m interested in embedded systems and power electronics.
-- 🌱 I’m currently digging into embedded systems.
+- 🌱 I’m currently digging into data structure/algorithm and embedded systems.
 - 📫 You can reach out to me via choi0424@uw.edu
 
 <!---
