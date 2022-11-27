@@ -2,7 +2,7 @@
 - 📫 My advisor is prof. [Vikram Iyer](https://homes.cs.washington.edu/~vsiyer/).
 - 👀 I’m interested in embedded computing systems (trying to switch to software engineer.)
 - 🌱 I’m currently digging into embedded linux, data structure/algorithm, and ARM Cortex-M4 bare metal programming (Device Drviers)
-- 📫 You can reach out to me via choi0424@uw.edu or chlskrtmd123@gmail.com
+- 📫 You can reach out to me via choi0424@uw.edu
 
 <!---
 NAKSEUNGCHOI/NAKSEUNGCHOI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
