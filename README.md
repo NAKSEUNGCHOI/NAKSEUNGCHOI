@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nakseung Choi. I am a graduate research assistant @ CSE UW. 
 - 📫 My advisor is prof. [Vikram Iyer](https://homes.cs.washington.edu/~vsiyer/).
-- 👀 I’m interested in embedded computing systems and software development.
-- 🌱 I'm currently digging into full stack web development (react js), DSA, and low level (C/C++) programming.
+- 👀 I’m interested in embedded computing systems and low-level programming.
+- 🌱 I'm currently developing a multithreaded kernel.
 - 📫 You can reach out to me via choi0424@uw.edu
 
 <!---
